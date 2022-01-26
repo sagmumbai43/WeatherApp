@@ -1,0 +1,28 @@
+ul{
+  padding: 0px;
+}
+li{
+  list-style-type: none;
+}
+button{
+  cursor: pointer;
+}
+.container {
+  padding: 0 2rem;
+}
+
+.sides {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
+
+.btnSet{
+  margin-left:10px;
+}
+
+.name{
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
